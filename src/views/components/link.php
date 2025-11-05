@@ -1,0 +1,1 @@
+<a class="link" href="<?= $route ?>" target="_blank"><?= $content ?></a>

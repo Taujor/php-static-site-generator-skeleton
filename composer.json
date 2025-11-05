@@ -1,0 +1,20 @@
+{
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Presenters\\Components\\": "src/presenters/components",
+            "Presenters\\Layouts\\": "src/presenters/layouts",
+            "Presenters\\Pages\\": "src/presenters/pages"
+        }
+    },
+    "authors": [
+        {
+            "name": "taujor",
+            "email": "tauscherjordan933@gmail.com"
+        }
+    ],
+    "require": {
+        "taujor/phpssg": "1.1.*"
+    }
+}
